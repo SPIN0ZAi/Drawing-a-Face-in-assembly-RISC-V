@@ -12,8 +12,9 @@ It was built and tested on the [Ripes](https://github.com/mortbopet/Ripes) visua
 Here's a rough idea of the output:
 
 <p align="center">
-  <img src="https://ibb.co/BKvVkMt9"/>
+  <img src="https://i.ibb.co/your-image-name.png" width="200"/>
 </p>
+
 
 
 
