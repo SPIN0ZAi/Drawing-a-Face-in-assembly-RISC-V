@@ -12,7 +12,7 @@ It was built and tested on the [Ripes](https://github.com/mortbopet/Ripes) visua
 Here's a rough idea of the output:
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/109DyuNGBoIrDfOSTLyWt7LvZneI_00vb/view?usp=sharing"/>
+  <img src="https://ibb.co/BKvVkMt9"/>
 </p>
 
 
