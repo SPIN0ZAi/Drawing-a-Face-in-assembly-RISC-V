@@ -11,10 +11,7 @@ It was built and tested on the [Ripes](https://github.com/mortbopet/Ripes) visua
 
 Here's a rough idea of the output:
 
-<p align="center">
- <img src="https://i.ibb.co/TqJBy3ks/Screenshot-2025-04-17-204041.jpg" width="500"/>
-
-</p>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TqJBy3ks/Screenshot-2025-04-17-204041.jpg" alt="Screenshot-2025-04-17-204041" border="0"></a>
 
 
 
