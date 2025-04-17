@@ -38,7 +38,7 @@ Written entirely in **RISC-V Assembly**, it demonstrates:
 
 | File              | Description                         |
 |-------------------|-------------------------------------|
-| `face_drawing.s`  | Main assembly code                  |
+| `Screen playing.s`  | Main assembly code                  |
 | `README.md`       | This documentation                  |
 
 ---
@@ -48,6 +48,7 @@ Written entirely in **RISC-V Assembly**, it demonstrates:
 1. Install [Ripes](https://github.com/mortbopet/Ripes)  
 2. Open `face_drawing.s` inside Ripes  
 3. Click ▶️ Run and enjoy the face being drawn!
+4. make sure to add matrix LED with 30 width and 40 height
 
 ---
 
