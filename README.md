@@ -11,7 +11,7 @@ It was built and tested on the [Ripes](https://github.com/mortbopet/Ripes) visua
 Here's what the output looks like:
 
 <p align="center">
- <img src="face_output.svg" width="500" alt="RISC-V Smiley Face Output"/>
+ <img src="https://github.com/SPIN0ZAi/Drawing-a-Face-in-assembly-RISC-V/blob/main/Screenshot%202025-04-17%20204041.jpg" width="500" alt="RISC-V Smiley Face Output"/>
 </p>
 
 ---
