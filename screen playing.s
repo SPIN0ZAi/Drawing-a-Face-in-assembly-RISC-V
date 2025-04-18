@@ -52,7 +52,7 @@ main:
     li a7, OSExit
     ecall
 
-# [Rest of your existing functions: PlotBox, PlotPixel, FillScreen]
+
     
     
 loop_plotting:
